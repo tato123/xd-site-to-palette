@@ -1,0 +1,17 @@
+{
+    "id": "jfontanez_image_extractor",
+    "name": "Site to Palette",
+    "version": "1.0.0",
+    "main": "main.js",
+    "host": {
+        "app": "XD",
+        "minVersion": "13.0.0"
+    },
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Site To Palette",
+            "commandId": "siteToPalette"
+        }
+    ]
+}
