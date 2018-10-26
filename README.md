@@ -5,6 +5,8 @@ Creates a sample color palette using puppeteer / headless chrome to create an fu
 
 Adobe XD then processes this data and generates a color palette
 
+Generated snapshots are visible in the `server/tmp` folder
+
 **Note**
 
 Adobe XD plugins require an https site. When modifying this plugin localhost will not work without creating a self-signed cert that has been added to your keystore OR using ngrok.
